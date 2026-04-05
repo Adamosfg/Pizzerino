@@ -11,11 +11,16 @@ A refined, full-featured restaurant website for **Pizzerino**, an authentic Ital
 | Hero | Menu | The Setting |
 |------|------|-------------|
 | ![Hero](<img width="1568" height="682" alt="image" src="https://github.com/user-attachments/assets/2e0cec76-2e16-484d-b86a-e5508cc0380c" />
-) | ![Menu](./screenshots/menu.png) | ![Setting](./screenshots/setting.png) |
+
+) | ![Menu](<img width="1568" height="659" alt="image" src="https://github.com/user-attachments/assets/b7899223-b4ce-4f3e-ae05-a258b03cd889" />
+) | ![Story](<img width="1568" height="685" alt="image" src="https://github.com/user-attachments/assets/c8e793eb-9efc-46cc-b297-31e19fea8a5f" />
+) |
 
 | Reservations | Location |
 |--------------|----------|
-| ![Reservations](./screenshots/reservations.png) | ![Location](./screenshots/location.png) |
+| ![Reservations](<img width="1568" height="693" alt="image" src="https://github.com/user-attachments/assets/ea672c54-05a9-4b5c-9eca-ccd81ebc3bb6" />
+) | ![Location](<img width="1568" height="687" alt="image" src="https://github.com/user-attachments/assets/a509308f-f59b-4d1f-863a-458cbb101e4f" />
+) |
 
 ---
 
