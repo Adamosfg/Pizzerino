@@ -1,121 +1,92 @@
-# 🍕 Pizzerino — Authentic Italian Restaurant Website
+<div align="center">
 
-> *"The Art of the Perfect Crust. Elegance in every slice."*
+# 🍕 Pizzerino
+**A modern authentic Italian restaurant website**
 
-A refined, full-featured restaurant website for **Pizzerino**, an authentic Italian pizzeria established in 1984. Built with a sophisticated editorial aesthetic — dark olive greens, crisp whites, and bold crimson accents — the site blends warmth and luxury to reflect the dining experience itself.
+![Hero](https://github.com/user-attachments/assets/2e0cec76-2e16-484d-b86a-e5508cc0380c)
 
----
-
-## 📸 Preview
-
-| Hero | Menu | The Setting |
-|------|------|-------------|
-| ![Hero](<img width="1568" height="682" alt="image" src="https://github.com/user-attachments/assets/2e0cec76-2e16-484d-b86a-e5508cc0380c" />
-
-) | ![Menu](<img width="1568" height="659" alt="image" src="https://github.com/user-attachments/assets/b7899223-b4ce-4f3e-ae05-a258b03cd889" />
-) | ![Story](<img width="1568" height="685" alt="image" src="https://github.com/user-attachments/assets/c8e793eb-9efc-46cc-b297-31e19fea8a5f" />
-) |
-
-| Reservations | Location |
-|--------------|----------|
-| ![Reservations](<img width="1568" height="693" alt="image" src="https://github.com/user-attachments/assets/ea672c54-05a9-4b5c-9eca-ccd81ebc3bb6" />
-) | ![Location](<img width="1568" height="687" alt="image" src="https://github.com/user-attachments/assets/a509308f-f59b-4d1f-863a-458cbb101e4f" />
-) |
+</div>
 
 ---
 
 ## ✨ Features
 
-- **Hero Section** — Full-bleed food photography with layered typography, an italic serif tagline, and dual CTAs (*View Our Menu* / *Book a Table*)
-- **Seasonal Menu** — Two-column menu layout with food thumbnails, dish names, descriptions, and prices across multiple categories (Signature Pizzas, etc.)
-- **The Setting** — Split-layout "Our Story" section with ambient restaurant photography and stat highlights (80+ wine selections, 12 signature cocktails)
-- **Reservations Form** — Dark-background booking section (*"Secure Your Italian Evening"*) with date picker, guest selector, name, email, special requests, and a confirm CTA
-- **Location Page** — Contact details card (address, phone, hours) alongside an embedded Google Map, centered on the Gauthier district of Casablanca
+- 🏠 **Hero section** — stunning full-bleed food photography with bold typography and dual CTAs
+- 📋 **Seasonal menu** — beautifully presented signature pizzas with photos, descriptions & prices
+- 🍷 **The setting** — ambient restaurant showcase with wine & cocktail highlights
+- 📅 **Reservations** — fully functional booking form with date, guests, and special requests
+- 📍 **Location** — contact details with embedded Google Map (Gauthier, Casablanca)
+- 🎨 **Elegant UI** — refined editorial design with dark olive, crimson accents & serif typography
 
 ---
 
-## 🎨 Design System
+## 📸 Screenshots
 
-| Token | Value |
-|-------|-------|
-| **Primary Green** | `#1e3a2f` (dark forest) |
-| **Accent Red** | `#c0392b` |
-| **Background** | `#ffffff` / `#f5f5f0` |
-| **Heading Font** | Serif display (editorial weight) |
-| **Accent Font** | Italic serif (taglines) |
-| **Body Font** | Clean sans-serif |
+| Hero | Menu |
+|:---:|:---:|
+| ![Hero](https://github.com/user-attachments/assets/2e0cec76-2e16-484d-b86a-e5508cc0380c) | ![Menu](https://github.com/user-attachments/assets/b7899223-b4ce-4f3e-ae05-a258b03cd889) |
 
----
+| The Setting | Reservations |
+|:---:|:---:|
+| ![Setting](https://github.com/user-attachments/assets/c8e793eb-9efc-46cc-b297-31e19fea8a5f) | ![Reservations](https://github.com/user-attachments/assets/ea672c54-05a9-4b5c-9eca-ccd81ebc3bb6) |
 
-## 🗂️ Pages & Sections
-
-```
-/
-├── Hero              → "The Art of the Perfect Crust"
-├── Menu              → The Seasonal Menu (Signature Pizzas + more)
-├── Our Story         → The Setting — A Space Designed For Connection
-├── Reservations      → Prenotazioni booking form
-└── Location          → Find Us in Casablanca — Gauthier
-```
-
----
-
-## 📍 Restaurant Details
-
-| Detail | Info |
-|--------|------|
-| **Established** | 1984 |
-| **Cuisine** | Authentic Italian / Neapolitan |
-| **Address** | 24 Rue Moussa Ibn Noussair, Gauthier, Casablanca 20000, Morocco |
-| **Phone** | +212 522-123456 |
-| **Hours** | Mon – Sun: 12:00 PM – 11:00 PM |
-
----
-
-## 🍽️ Sample Menu Items
-
-| Pizza | Price | Description |
-|-------|-------|-------------|
-| Margherita Royale | $18 | San Marzano tomatoes, buffalo mozzarella, fresh basil, extra virgin olive oil |
-| Tartufo Bianco | $26 | White truffle cream, fior di latte, wild mushrooms, shaved black truffle |
-| Diavola Elegant | $22 | Spicy Calabrese salami, nduja, red onion, hot honey drizzle |
-| Pistachio & Mortadella | $24 | Pistachio pesto, mortadella di Bologna, stracciatella, crushed pistachios |
-
----
-
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/pizzerino.git
-
-# Navigate into the project
-cd pizzerino
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-```
+![Location](https://github.com/user-attachments/assets/a509308f-f59b-4d1f-863a-458cbb101e4f)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Framework**: *(e.g., React / Next.js / plain HTML)*
-- **Styling**: *(e.g., Tailwind CSS / CSS Modules)*
-- **Maps**: Google Maps Embed API
-- **Fonts**: Google Fonts
+- **Framework** — Next.js
+- **Styling** — Tailwind CSS
+- **Language** — TypeScript
+- **Maps** — Google Maps Embed API
 
 ---
 
-## 📄 License
+## 🚀 Getting Started
 
-This project is for demonstration purposes. All food photography and branding belong to their respective owners.
+**Prerequisites:** Node.js
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/pizzerino.git
+   cd pizzerino
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-<p align="center">
-  Made with ❤️ and 🍕 — <em>Est. 1984 · Authentic Italian</em>
-</p>
+## 📁 Project Structure
+
+```
+pizzerino/
+├── app/
+│   ├── page.tsx            # Main landing page
+│   └── layout.tsx          # Root layout
+├── components/
+│   ├── Hero.tsx
+│   ├── Menu.tsx
+│   ├── Setting.tsx
+│   ├── Reservations.tsx
+│   └── Location.tsx
+├── public/                 # Static assets & images
+└── README.md
+```
+
+---
+
+<div align="center">
+
+Made with 🍕 by [your name](https://github.com/your-username)
+
+</div>
