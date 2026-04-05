@@ -87,6 +87,6 @@ pizzerino/
 
 <div align="center">
 
-Made with 🍕 by [your name](https://github.com/your-username)
+Made with 🍕 by [your name](https://github.com/Adamosfg)
 
 </div>
